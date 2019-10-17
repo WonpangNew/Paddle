@@ -10,7 +10,7 @@ English | [简体中文](./README_cn.md)
 
 Welcome to the PaddlePaddle GitHub.
 
-PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use,
+PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use。
 efficient, flexible and scalable deep learning platform, which is originally
 developed by Baidu scientists and engineers for the purpose of applying deep
 learning to many products at Baidu.
@@ -84,7 +84,7 @@ It is recommended to read [this doc](http://www.paddlepaddle.org.cn/documentatio
 We provide [English](http://www.paddlepaddle.org.cn/documentation/docs/en/1.5/beginners_guide/index_en.html) and
 [Chinese](http://www.paddlepaddle.org.cn/documentation/docs/zh/1.5/beginners_guide/install/index_cn.html) documentation.
 
-- [Deep Learning 101](https://github.com/PaddlePaddle/book)
+- [Deep Learning 101](https://github.com/PaddlePaddle/book
 
   You might want to start from this online interactive book that can run in a Jupyter Notebook.
 
